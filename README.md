@@ -4,7 +4,7 @@ A fully responsive and modern **Angular 11 portfolio website** built to showcase
 This project reflects my approach to building **clean, scalable, and user-focused web applications**.
 
 🔗 **Live Demo**  
-[![View Live Site](https://img.shields.io/badge/Live-Site-blue?style=for-the-badge)](https://marvills.github.io/angular-portfolio/)
+[![View Live Site](https://img.shields.io/badge/Live-Site-blue?style=for-the-badge)](https://marvills-hub.github.io/angular-portfolio/)
 
 > [!NOTE]  
 > GitHub disables opening links in a new tab for security reasons.  
